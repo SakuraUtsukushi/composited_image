@@ -12,3 +12,11 @@ CANVAS_W, CANVAS_H = 1200, 800
 ```
 self.thumb_size = (90, 150)
 ```
+
+Pythonのライブラリは、以下を使用しました。
+```
+Package Version
+------- -------
+pillow  13.0.0
+pip     26.2.2
+```
